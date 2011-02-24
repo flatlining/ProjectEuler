@@ -4,7 +4,6 @@
 
 # Most simple one
 def SimpleSolution():
-    
     print "> %s" % ()
 
 # A refined solution
